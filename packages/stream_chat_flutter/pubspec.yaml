@@ -14,7 +14,10 @@ dependencies:
   chewie: ^1.8.1
   collection: ^1.17.2
   contextmenu: ^3.0.0
-  dart_vlc: ^0.4.0
+  dart_vlc:
+    git:
+      url: https://github.com/EspadaRaijin/dart_vlc.git
+      ref: master
   desktop_drop: ^0.4.4
   diacritic: ^0.1.5
   dio: ^5.4.3+1
